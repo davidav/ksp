@@ -1,0 +1,8 @@
+lib_hillclimb_man_exe is going to replaced with a better version for now it will just
+be ignored OR:
+
+Instead of marking with T_ it will be replaced with D_
+
+___________
+
+TODO: make HillClimbLex to T_HillUni
