@@ -1,0 +1,1632 @@
+MODULES FOR PART NAMED ServiceBay.125.v2 (molniya_240-2)
+LIST of 8 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleConductionMultiplier"
+[2] = 
+  ["value"] = "ModuleCargoPart"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "GeometryPartModule"
+[5] = 
+  ["value"] = "FARAeroPartModule"
+[6] = 
+  ["value"] = "FARPartModule"
+[7] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED sasModule
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleReactionWheel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED sensorThermometer
+LIST of 8 items:
+[0] = 
+  ["value"] = "ModuleEnviroSensor"
+[1] = 
+  ["value"] = "ModuleScienceExperiment"
+[2] = 
+  ["value"] = "ModuleCargoPart"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "GeometryPartModule"
+[5] = 
+  ["value"] = "FARAeroPartModule"
+[6] = 
+  ["value"] = "FARPartModule"
+[7] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreHex.v2
+LIST of 21 items:
+[0] = 
+  ["value"] = "ModuleCommand"
+[1] = 
+  ["value"] = "ModuleReactionWheel"
+[2] = 
+  ["value"] = "ModuleSAS"
+[3] = 
+  ["value"] = "ModuleKerbNetAccess"
+[4] = 
+  ["value"] = "ModuleCargoPart"
+[5] = 
+  ["value"] = "MechJebCore"
+[6] = 
+  ["value"] = "ModuleScienceExperiment"
+[7] = 
+  ["value"] = "AYCrewPart"
+[8] = 
+  ["value"] = "AYPart"
+[9] = 
+  ["value"] = "GeometryPartModule"
+[10] = 
+  ["value"] = "FARAeroPartModule"
+[11] = 
+  ["value"] = "FARPartModule"
+[12] = 
+  ["value"] = "KOSNameTag"
+[13] = 
+  ["value"] = "ModuleSPU"
+[14] = 
+  ["value"] = "ModuleRTAntennaPassive"
+[15] = 
+  ["value"] = "TrajectoriesVesselSettings"
+[16] = 
+  ["value"] = "TWR1Data"
+[17] = 
+  ["value"] = "ProbeControlRoomPart"
+[18] = 
+  ["value"] = "RasterPropMonitorComputer"
+[19] = 
+  ["value"] = "ModuleTripLogger"
+[20] = 
+  ["value"] = "FARPM"
+MODULES FOR PART NAMED KR-2042
+LIST of 8 items:
+[0] = 
+  ["value"] = "kOSProcessor"
+[1] = 
+  ["value"] = "ModuleLight"
+[2] = 
+  ["value"] = "kOSLightModule"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "GeometryPartModule"
+[5] = 
+  ["value"] = "FARAeroPartModule"
+[6] = 
+  ["value"] = "FARPartModule"
+[7] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED RTShortAntenna1
+LIST of 9 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+[6] = 
+  ["value"] = "ModuleRTAntenna"
+[7] = 
+  ["value"] = "ModuleSPUPassive"
+[8] = 
+  ["value"] = "ModuleRTDataTransmitter"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED RTLongAntenna3
+LIST of 9 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED liquidEngine3.v2
+LIST of 13 items:
+[0] = 
+  ["value"] = "ModuleEngines"
+[1] = 
+  ["value"] = "ModuleGimbal"
+[2] = 
+  ["value"] = "ModuleJettison"
+[3] = 
+  ["value"] = "ModuleTestSubject"
+[4] = 
+  ["value"] = "ModuleSurfaceFX"
+[5] = 
+  ["value"] = "ModulePartVariants"
+[6] = 
+  ["value"] = "FXModuleAnimateThrottle"
+[7] = 
+  ["value"] = "ModuleCargoPart"
+[8] = 
+  ["value"] = "AYPart"
+[9] = 
+  ["value"] = "GeometryPartModule"
+[10] = 
+  ["value"] = "FARAeroPartModule"
+[11] = 
+  ["value"] = "FARPartModule"
+[12] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED Decoupler.1
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleDecouple"
+[1] = 
+  ["value"] = "ModuleToggleCrossfeed"
+[2] = 
+  ["value"] = "ModuleTestSubject"
+[3] = 
+  ["value"] = "ModulePartVariants"
+[4] = 
+  ["value"] = "ModuleCargoPart"
+[5] = 
+  ["value"] = "AYPart"
+[6] = 
+  ["value"] = "GeometryPartModule"
+[7] = 
+  ["value"] = "FARAeroPartModule"
+[8] = 
+  ["value"] = "FARPartModule"
+[9] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED fairingSize1
+LIST of 21 items:
+[0] = 
+  ["value"] = "ModuleProceduralFairing"
+[1] = 
+  ["value"] = "ModuleTestSubject"
+[2] = 
+  ["value"] = "ModuleStructuralNode"
+[3] = 
+  ["value"] = "ModuleStructuralNode"
+[4] = 
+  ["value"] = "ModuleStructuralNode"
+[5] = 
+  ["value"] = "ModuleStructuralNode"
+[6] = 
+  ["value"] = "ModuleStructuralNode"
+[7] = 
+  ["value"] = "ModuleStructuralNode"
+[8] = 
+  ["value"] = "ModuleStructuralNode"
+[9] = 
+  ["value"] = "ModuleStructuralNode"
+[10] = 
+  ["value"] = "ModuleStructuralNode"
+[11] = 
+  ["value"] = "ModuleStructuralNode"
+[12] = 
+  ["value"] = "ModuleStructuralNode"
+[13] = 
+  ["value"] = "ModuleStructuralNode"
+[14] = 
+  ["value"] = "ModuleStructuralNodeToggle"
+[15] = 
+  ["value"] = "ModulePartVariants"
+[16] = 
+  ["value"] = "AYPart"
+[17] = 
+  ["value"] = "GeometryPartModule"
+[18] = 
+  ["value"] = "FARAeroPartModule"
+[19] = 
+  ["value"] = "FARPartModule"
+[20] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED advSasModule
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleReactionWheel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED LiquidEngineLV-TX87
+LIST of 12 items:
+[0] = 
+  ["value"] = "ModuleEngines"
+[1] = 
+  ["value"] = "ModuleAlternator"
+[2] = 
+  ["value"] = "ModuleGimbal"
+[3] = 
+  ["value"] = "ModuleGimbal"
+[4] = 
+  ["value"] = "ModulePartVariants"
+[5] = 
+  ["value"] = "ModuleJettison"
+[6] = 
+  ["value"] = "ModuleTestSubject"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED tailfin
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "FARControllableSurface"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED tailfin
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "FARControllableSurface"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED launchClamp1
+LIST of 6 items:
+[0] = 
+  ["value"] = "LaunchClamp"
+[1] = 
+  ["value"] = "ModuleGenerator"
+[2] = 
+  ["value"] = "ModuleTestSubject"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED launchClamp1
+LIST of 6 items:
+[0] = 
+  ["value"] = "LaunchClamp"
+[1] = 
+  ["value"] = "ModuleGenerator"
+[2] = 
+  ["value"] = "ModuleTestSubject"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ServiceBay.125.v2 (molniya_240-2)
+LIST of 8 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleConductionMultiplier"
+[2] = 
+  ["value"] = "ModuleCargoPart"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "GeometryPartModule"
+[5] = 
+  ["value"] = "FARAeroPartModule"
+[6] = 
+  ["value"] = "FARPartModule"
+[7] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED sasModule
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleReactionWheel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED sensorThermometer
+LIST of 8 items:
+[0] = 
+  ["value"] = "ModuleEnviroSensor"
+[1] = 
+  ["value"] = "ModuleScienceExperiment"
+[2] = 
+  ["value"] = "ModuleCargoPart"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "GeometryPartModule"
+[5] = 
+  ["value"] = "FARAeroPartModule"
+[6] = 
+  ["value"] = "FARPartModule"
+[7] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED probeCoreHex.v2
+LIST of 21 items:
+[0] = 
+  ["value"] = "ModuleCommand"
+[1] = 
+  ["value"] = "ModuleReactionWheel"
+[2] = 
+  ["value"] = "ModuleSAS"
+[3] = 
+  ["value"] = "ModuleKerbNetAccess"
+[4] = 
+  ["value"] = "ModuleCargoPart"
+[5] = 
+  ["value"] = "MechJebCore"
+[6] = 
+  ["value"] = "ModuleScienceExperiment"
+[7] = 
+  ["value"] = "AYCrewPart"
+[8] = 
+  ["value"] = "AYPart"
+[9] = 
+  ["value"] = "GeometryPartModule"
+[10] = 
+  ["value"] = "FARAeroPartModule"
+[11] = 
+  ["value"] = "FARPartModule"
+[12] = 
+  ["value"] = "KOSNameTag"
+[13] = 
+  ["value"] = "ModuleSPU"
+[14] = 
+  ["value"] = "ModuleRTAntennaPassive"
+[15] = 
+  ["value"] = "TrajectoriesVesselSettings"
+[16] = 
+  ["value"] = "TWR1Data"
+[17] = 
+  ["value"] = "ProbeControlRoomPart"
+[18] = 
+  ["value"] = "RasterPropMonitorComputer"
+[19] = 
+  ["value"] = "ModuleTripLogger"
+[20] = 
+  ["value"] = "FARPM"
+MODULES FOR PART NAMED KR-2042
+LIST of 8 items:
+[0] = 
+  ["value"] = "kOSProcessor"
+[1] = 
+  ["value"] = "ModuleLight"
+[2] = 
+  ["value"] = "kOSLightModule"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "GeometryPartModule"
+[5] = 
+  ["value"] = "FARAeroPartModule"
+[6] = 
+  ["value"] = "FARPartModule"
+[7] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED RTShortAntenna1
+LIST of 9 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+[6] = 
+  ["value"] = "ModuleRTAntenna"
+[7] = 
+  ["value"] = "ModuleSPUPassive"
+[8] = 
+  ["value"] = "ModuleRTDataTransmitter"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED solarPanels4
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleDeployableSolarPanel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED strutCube
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED HighGainAntenna5.v2
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+[9] = 
+  ["value"] = "ModuleTripLogger"
+MODULES FOR PART NAMED RTLongAntenna3
+LIST of 9 items:
+[0] = 
+  ["value"] = "ModuleAnimateGeneric"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+[7] = 
+  ["value"] = "ModuleRTAntenna"
+[8] = 
+  ["value"] = "ModuleSPUPassive"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED ksp.r.largeBatteryPack
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "GeometryPartModule"
+[3] = 
+  ["value"] = "FARAeroPartModule"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED liquidEngine3.v2
+LIST of 13 items:
+[0] = 
+  ["value"] = "ModuleEngines"
+[1] = 
+  ["value"] = "ModuleGimbal"
+[2] = 
+  ["value"] = "ModuleJettison"
+[3] = 
+  ["value"] = "ModuleTestSubject"
+[4] = 
+  ["value"] = "ModuleSurfaceFX"
+[5] = 
+  ["value"] = "ModulePartVariants"
+[6] = 
+  ["value"] = "FXModuleAnimateThrottle"
+[7] = 
+  ["value"] = "ModuleCargoPart"
+[8] = 
+  ["value"] = "AYPart"
+[9] = 
+  ["value"] = "GeometryPartModule"
+[10] = 
+  ["value"] = "FARAeroPartModule"
+[11] = 
+  ["value"] = "FARPartModule"
+[12] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED Decoupler.1
+LIST of 10 items:
+[0] = 
+  ["value"] = "ModuleDecouple"
+[1] = 
+  ["value"] = "ModuleToggleCrossfeed"
+[2] = 
+  ["value"] = "ModuleTestSubject"
+[3] = 
+  ["value"] = "ModulePartVariants"
+[4] = 
+  ["value"] = "ModuleCargoPart"
+[5] = 
+  ["value"] = "AYPart"
+[6] = 
+  ["value"] = "GeometryPartModule"
+[7] = 
+  ["value"] = "FARAeroPartModule"
+[8] = 
+  ["value"] = "FARPartModule"
+[9] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED fairingSize1
+LIST of 21 items:
+[0] = 
+  ["value"] = "ModuleProceduralFairing"
+[1] = 
+  ["value"] = "ModuleTestSubject"
+[2] = 
+  ["value"] = "ModuleStructuralNode"
+[3] = 
+  ["value"] = "ModuleStructuralNode"
+[4] = 
+  ["value"] = "ModuleStructuralNode"
+[5] = 
+  ["value"] = "ModuleStructuralNode"
+[6] = 
+  ["value"] = "ModuleStructuralNode"
+[7] = 
+  ["value"] = "ModuleStructuralNode"
+[8] = 
+  ["value"] = "ModuleStructuralNode"
+[9] = 
+  ["value"] = "ModuleStructuralNode"
+[10] = 
+  ["value"] = "ModuleStructuralNode"
+[11] = 
+  ["value"] = "ModuleStructuralNode"
+[12] = 
+  ["value"] = "ModuleStructuralNode"
+[13] = 
+  ["value"] = "ModuleStructuralNode"
+[14] = 
+  ["value"] = "ModuleStructuralNodeToggle"
+[15] = 
+  ["value"] = "ModulePartVariants"
+[16] = 
+  ["value"] = "AYPart"
+[17] = 
+  ["value"] = "GeometryPartModule"
+[18] = 
+  ["value"] = "FARAeroPartModule"
+[19] = 
+  ["value"] = "FARPartModule"
+[20] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED advSasModule
+LIST of 7 items:
+[0] = 
+  ["value"] = "ModuleReactionWheel"
+[1] = 
+  ["value"] = "ModuleCargoPart"
+[2] = 
+  ["value"] = "AYPart"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "FARPartModule"
+[6] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED proceduralTankLiquid
+LIST of 12 items:
+[0] = 
+  ["value"] = "ProceduralPart"
+[1] = 
+  ["value"] = "ProceduralShapeCylinder"
+[2] = 
+  ["value"] = "ProceduralShapeCone"
+[3] = 
+  ["value"] = "ProceduralShapePill"
+[4] = 
+  ["value"] = "ProceduralShapeBezierCone"
+[5] = 
+  ["value"] = "ProceduralShapePolygon"
+[6] = 
+  ["value"] = "TankContentSwitcher"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED LiquidEngineLV-TX87
+LIST of 12 items:
+[0] = 
+  ["value"] = "ModuleEngines"
+[1] = 
+  ["value"] = "ModuleAlternator"
+[2] = 
+  ["value"] = "ModuleGimbal"
+[3] = 
+  ["value"] = "ModuleGimbal"
+[4] = 
+  ["value"] = "ModulePartVariants"
+[5] = 
+  ["value"] = "ModuleJettison"
+[6] = 
+  ["value"] = "ModuleTestSubject"
+[7] = 
+  ["value"] = "AYPart"
+[8] = 
+  ["value"] = "GeometryPartModule"
+[9] = 
+  ["value"] = "FARAeroPartModule"
+[10] = 
+  ["value"] = "FARPartModule"
+[11] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED tailfin
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "FARControllableSurface"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED tailfin
+LIST of 6 items:
+[0] = 
+  ["value"] = "ModuleCargoPart"
+[1] = 
+  ["value"] = "AYPart"
+[2] = 
+  ["value"] = "FARControllableSurface"
+[3] = 
+  ["value"] = "GeometryPartModule"
+[4] = 
+  ["value"] = "FARAeroPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED launchClamp1
+LIST of 6 items:
+[0] = 
+  ["value"] = "LaunchClamp"
+[1] = 
+  ["value"] = "ModuleGenerator"
+[2] = 
+  ["value"] = "ModuleTestSubject"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
+MODULES FOR PART NAMED launchClamp1
+LIST of 6 items:
+[0] = 
+  ["value"] = "LaunchClamp"
+[1] = 
+  ["value"] = "ModuleGenerator"
+[2] = 
+  ["value"] = "ModuleTestSubject"
+[3] = 
+  ["value"] = "AYPart"
+[4] = 
+  ["value"] = "FARPartModule"
+[5] = 
+  ["value"] = "KOSNameTag"
