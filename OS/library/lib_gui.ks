@@ -1,14 +1,14 @@
 //@lazyglobal off.
-// public class guiController     
-function guiController{ 
+// public class guiController
+function guiController{
     // loadingIndicator :: int -> int -> Indicator
     function loadingIndicator{
         parameter duration is 10.
         parameter labelIndicator is "LOADING ".
         local symbolSignal is "O".
-        local symbolEmpty is "-".        
+        local symbolEmpty is "-".
         local indicatorSignal to "".
-        local indicatorEmpty to "".            
+        local indicatorEmpty to "".
         local indicator to indicatorEmpty.
         until duration < -1 {
             wait 0.05.
@@ -21,12 +21,23 @@ function guiController{
             }
             set indicator to indicatorSignal + indicatorEmpty.
             print labelIndicator + indicator at (5, 19).
-            set duration to duration - 1.       
+            set duration to duration - 1.
         }
+    }
+    //     function notify :: text -> text -> int -> int -> int -> bool-> Indicator
+    function notify{
+    	parameter nMsg.
+    	parameter nCol is yellow.
+    	parameter nDly is 5.
+    	parameter nSty is 2.
+    	parameter nSz is 20.
+    	parameter nEcho is false.
+    	hudtext(nMsg,nDly,nSty,nSz,nCol,nEcho).
     }
     // Return Public Fields
     return lexicon(
-        "loadingIndicator", loadingIndicator@
-    ).  
+        "loadingIndicator", loadingIndicator@,
+        "notify", notify@
+    ).
 }
 global gui is guiController().

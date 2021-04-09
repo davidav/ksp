@@ -4,7 +4,7 @@ require("control.ks").
 
 function MunDescent{
 	parameter tLat is 0.
-	parameter tLng is 0.	
+	parameter tLng is 0.
 	parameter lStg is 0.
 	parameter lLead is 5.
 
@@ -13,15 +13,15 @@ function MunDescent{
 	if tlng < 0{
 		set tStart to LATLNG(tLat * -1,mod(tLng + 180,180)).
 	}
-	
-	local tPeri is 10000.	
+
+	local tPeri is 10000.
 	local lDescend is tStart:LNG - lLead.
-	
+
 	local rm is 1.
 	local tWork is 0.
  	local hWork is ship:facing.
 	set tLock to tWork.
-	set hLock to hWork. 
+	set hLock to hWork.
 	lock throttle to tLock.
 	lock steering to hLock.
 
@@ -33,8 +33,8 @@ function MunDescent{
 	gear off.
 	gear on.
 	gear off.
-	
-	
+
+
 	if ship:periapsis < tPeri{
 		set tWork to 0.
 		set rm to 4.
@@ -106,10 +106,10 @@ function MunDescent{
 				set aPID:setpoint to -2.
 				gear on.
 			}
-			lock steering to descent_vector().				
+			lock steering to descent_vector().
 			set tWork to aPID:update(time:seconds,verticalspeed).
 		}
-	
+
 		checkStage().
 		set tLock to tWork.
 		set hLock to hWork.
@@ -119,12 +119,12 @@ function MunDescent{
 		print "CURR: " + round(ship:geoposition:LAT,2) + "  " at (1,10).
 		print round(ship:geoposition:LNG,2) + "  " at (16,10).
 		print "STRT: " + round(tStart:LAT,2) + "  " at (1,11).
-		print round(tStart:LNG,2) + "  " at (16,11).		
+		print round(tStart:LNG,2) + "  " at (16,11).
 		print "TGT : " + round(tLand:LAT,2) + "  " at (1,12).
 		print round(tLand:LNG,2) + "  " at (16,12).
 		print round(tLand:Heading,2) + "  " at (1,13).
 		print round(tLand:Distance,2) + "  " at (16,13).
-		
+
 	}
 	notify("LANDED").
 	clearscreen.
@@ -139,6 +139,7 @@ function descent_vector{
 	return unrotate(up:vector * g() - velocity:surface).
 }
 function unrotate{
-	parameter v. if v:typename <> "Vector" set v to v:vector.
+	parameter v.
+	if v:typename <> "Vector" set v to v:vector.
 	return lookdirup(v,ship:facing:topvector).
 }
