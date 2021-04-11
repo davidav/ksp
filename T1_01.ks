@@ -1,12 +1,12 @@
-//Bull sub-orbital
+//Test SuicideBurn
 //
 //
 
-set nameProgram to "Bull - Sub-orbital".
+set nameProgram to "T1-01".
 
-set maxTWR to 1.3.
-set targetHead to 90.
-set targetPitch to 90.
+set maxTWR to 1.8.
+set targetHead to 88.
+set targetPitch to 88.
 
 set ship:control:pilotmainthrottle to 0.
 SAS off.
@@ -17,7 +17,7 @@ set cyclogram to 1.
 until cyclogram = 0 {
     if cyclogram = 1{
 		system["displayNameCyclogram"]("PRELUNCH").
-        system["timer"](10, "Left before launch program ", 1).
+        system["timer"](1, "Left before launch ", 1).
         set cyclogram to 2.
     }
     if cyclogram = 2{
@@ -32,7 +32,6 @@ until cyclogram = 0 {
         stage.
         print "TAKE OFF" at(5,6).
         wait 1.
-        stage.
         set cyclogram to 3.
     }
     else if cyclogram = 3{
@@ -40,20 +39,24 @@ until cyclogram = 0 {
         wait 3.
         vessel["orientation"](targetPitch, targetHead).
 		vessel["CapTWR"](maxTWR).
-        wait until ship:verticalspeed < 0. {
+        until altitude > 10000 {
+            wait 0.5.
+        }
             unlock throttle.
             set cyclogram to 4.
-        }
     }
     else if cyclogram = 4{
     	system["displayNameCyclogram"]("FREE_FLIGHT").
-        wait until alt:radar < 2000.
-            vessel["deployChutes"]().
-        wait until alt:radar < 1000.
-            AG1 ON.
-        set cyclogram to 0.
+        wait until ship:verticalspeed < 0. {
+            wait 0.5.
+        }
 
-        wait 0.5.
+            vessel["deployFairings"]().
+            set navmode to "SURFACE".			//переключение в режим Surface.
+            set sasmode to "STABILITYASSIST".   //Включение SAS в режиме стабилизации.
+            OS_Boot["CopyAndRunFile"]("suicide_burn").
+            wait 0.5.
+    set cyclogram to 0.
     }
 }
 if cyclogram = 0 {
