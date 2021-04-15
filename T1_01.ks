@@ -45,6 +45,7 @@ until cyclogram = 0 {
             unlock throttle.
             set cyclogram to 4.
     }
+    
     else if cyclogram = 4{
     	system["displayNameCyclogram"]("FREE_FLIGHT").
         wait until ship:verticalspeed < 0. {
@@ -59,6 +60,7 @@ until cyclogram = 0 {
     set cyclogram to 0.
     }
 }
+
 if cyclogram = 0 {
 	system["displayNameCyclogram"]("FINALIZATION").
     rcs on.
